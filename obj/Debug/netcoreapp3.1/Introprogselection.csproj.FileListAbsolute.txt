@@ -1,0 +1,3 @@
+C:\Users\101669460\Desktop\Introprogselection\obj\Debug\netcoreapp3.1\Introprogselection.csprojAssemblyReference.cache
+C:\Users\101669460\Desktop\Introprogselection\obj\Debug\netcoreapp3.1\Introprogselection.AssemblyInfoInputs.cache
+C:\Users\101669460\Desktop\Introprogselection\obj\Debug\netcoreapp3.1\Introprogselection.AssemblyInfo.cs
