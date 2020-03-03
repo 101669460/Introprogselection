@@ -1,3 +1,11 @@
 C:\Users\101669460\Desktop\Introprogselection\obj\Debug\netcoreapp3.1\Introprogselection.csprojAssemblyReference.cache
 C:\Users\101669460\Desktop\Introprogselection\obj\Debug\netcoreapp3.1\Introprogselection.AssemblyInfoInputs.cache
 C:\Users\101669460\Desktop\Introprogselection\obj\Debug\netcoreapp3.1\Introprogselection.AssemblyInfo.cs
+C:\Users\101669460\Desktop\Introprogselection\bin\Debug\netcoreapp3.1\Introprogselection.exe
+C:\Users\101669460\Desktop\Introprogselection\bin\Debug\netcoreapp3.1\Introprogselection.deps.json
+C:\Users\101669460\Desktop\Introprogselection\bin\Debug\netcoreapp3.1\Introprogselection.runtimeconfig.json
+C:\Users\101669460\Desktop\Introprogselection\bin\Debug\netcoreapp3.1\Introprogselection.runtimeconfig.dev.json
+C:\Users\101669460\Desktop\Introprogselection\bin\Debug\netcoreapp3.1\Introprogselection.dll
+C:\Users\101669460\Desktop\Introprogselection\bin\Debug\netcoreapp3.1\Introprogselection.pdb
+C:\Users\101669460\Desktop\Introprogselection\obj\Debug\netcoreapp3.1\Introprogselection.dll
+C:\Users\101669460\Desktop\Introprogselection\obj\Debug\netcoreapp3.1\Introprogselection.pdb
